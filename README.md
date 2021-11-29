@@ -1,3 +1,3 @@
 # DiceRoller
 Dice roller to help play board games
-![DiceRoller](https://user-images.githubusercontent.com/86685007/143941027-4e6ac71d-182c-426b-8389-f1b31f148680.png)
+![DiceRoller](https://user-images.githubusercontent.com/86685007/143945804-5939a5d6-3e93-4209-a83b-009f84421cfc.png)
