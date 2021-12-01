@@ -1,4 +1,4 @@
-# DiceRoller
+# Dice Roller
 Dice roller to help you play board games.
 
 
